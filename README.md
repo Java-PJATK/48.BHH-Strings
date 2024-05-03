@@ -94,4 +94,4 @@ N e w   Y o r k
 kroY weN
 ```
 
-Next 9.2 Class StringBuilder Listing 49 BHI-StrBuilder 
+Next [9.2 Class StringBuilder Listing 49 BHI-StrBuilder](https://github.com/Java-PJATK/49.BHI-StrBuilder)
